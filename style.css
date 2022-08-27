@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color: red;
+    font-size: 60px;
+    text-decoration: underline;
+    border-bottom: 10px blue solid;
+    padding-bottom: 20px;
+}
+h3{
+    font-size: 45px;
+    color: orange;
+    text-align: center;
+}
